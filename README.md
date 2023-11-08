@@ -1,40 +1,49 @@
-Proyecto de E-commerce - Zia Carmela
+# Proyecto de E-commerce - Zia Carmela
+
 Este es un proyecto de e-commerce desarrollado como parte de un curso universitario. El sistema está diseñado para simular una tienda en línea que vende productos, con un enfoque particular en la empresa ficticia "Zia Carmela", que se especializa en la venta de papas fritas de la línea "Quento" y pochoclos, junto con otros productos.
 
-Visión general
+## Visión general
+
 Este sistema de e-commerce se ha desarrollado utilizando diversas tecnologías, incluyendo HTML, CSS, JavaScript para la parte del cliente, y Java con el framework Spring Boot para la parte del servidor. A continuación, se detalla cómo está estructurado el proyecto:
 
-Frontend:
+- **Frontend**:
+  - El frontend se encuentra en la carpeta `frontend`. Aquí se almacenan todos los archivos HTML, CSS y JavaScript necesarios para la interfaz de usuario.
+  - Los usuarios pueden explorar productos, agregarlos a su carrito de compras y realizar pedidos.
+  - La interfaz de usuario está diseñada de manera intuitiva y atractiva para mejorar la experiencia del usuario.
 
-El frontend se encuentra en la carpeta frontend. Aquí se almacenan todos los archivos HTML, CSS y JavaScript necesarios para la interfaz de usuario.
-Los usuarios pueden explorar productos, agregarlos a su carrito de compras y realizar pedidos.
-La interfaz de usuario está diseñada de manera intuitiva y atractiva para mejorar la experiencia del usuario.
-Backend:
+- **Backend**:
+  - El backend del sistema está desarrollado en Java utilizando el framework Spring Boot. Se encuentra en la carpeta `backend`.
+  - La lógica de negocio se encarga de gestionar productos, usuarios, carritos de compras, pedidos y otros aspectos relacionados con el e-commerce.
+  - Se utilizan repositorios JPA y bases de datos MySQL para el almacenamiento de datos.
 
-El backend del sistema está desarrollado en Java utilizando el framework Spring Boot. Se encuentra en la carpeta backend.
-La lógica de negocio se encarga de gestionar productos, usuarios, carritos de compras, pedidos y otros aspectos relacionados con el e-commerce.
-Se utilizan repositorios JPA y bases de datos MySQL para el almacenamiento de datos.
-Funcionalidades clave
+## Funcionalidades clave
+
 El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades principales:
 
-Exploración de productos:
+1. **Exploración de productos**:
+   - Los usuarios pueden navegar por una lista de productos disponibles, incluyendo papas fritas "Quento", pochoclos y otros productos de la empresa "Zia Carmela".
 
-Los usuarios pueden navegar por una lista de productos disponibles, incluyendo papas fritas "Quento", pochoclos y otros productos de la empresa "Zia Carmela".
-Carrito de compras:
+2. **Carrito de compras**:
+   - Los usuarios pueden agregar productos a su carrito de compras, especificar la cantidad deseada y ver el resumen de su carrito.
 
-Los usuarios pueden agregar productos a su carrito de compras, especificar la cantidad deseada y ver el resumen de su carrito.
-Proceso de compra:
+3. **Proceso de compra**:
+   - Los usuarios pueden proceder al proceso de compra, donde proporcionan su información de envío y seleccionan un método de pago.
 
-Los usuarios pueden proceder al proceso de compra, donde proporcionan su información de envío y seleccionan un método de pago.
-Pedidos:
-
-Los pedidos realizados por los usuarios se registran en el sistema, y los usuarios pueden consultar el estado de sus pedidos.
-
-
-Autores
-[Tu Nombre] - Desarrollador principal - [Enlace a tu perfil de GitHub]
+4. **Pedidos**:
+   - Los pedidos realizados por los usuarios se registran en el sistema, y los usuarios pueden consultar el estado de sus pedidos.
 
 
-Licencia
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para obtener más detalles.
+## Contribuciones
+
+Si deseas contribuir a este proyecto, siéntete libre de crear solicitudes de extracción (pull requests) con mejoras, correcciones de errores o nuevas funcionalidades. También puedes informar sobre problemas (issues) que encuentres.
+
+## Autores
+
+- nombre - back o front - enlace a perfil de github
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+
 
