@@ -33,9 +33,6 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
    - Los pedidos realizados por los usuarios se registran en el sistema, y los usuarios pueden consultar el estado de sus pedidos.
 
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de crear solicitudes de extracción (pull requests) con mejoras, correcciones de errores o nuevas funcionalidades. También puedes informar sobre problemas (issues) que encuentres.
 
 ## Autores
 
