@@ -41,9 +41,6 @@ Si deseas contribuir a este proyecto, siéntete libre de crear solicitudes de ex
 
 - nombre - back o front - enlace a perfil de github
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 
 
