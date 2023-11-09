@@ -38,8 +38,8 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
 
 
 
-- |nombre - |back o front - |enlace a perfil de github|
-- |-------|:-----|----------|---------------------------:|
+- nombre - back o front - enlace a perfil de github
+|hola|hola|
 - Iván De La Fuente - Backend - [IvanDLF](https://github.com/ivandlf)
 - Walter Hugo Diaz - Front-end -  [Walterdiaz2023](https://github.com/walterdiaz2023)
 
