@@ -38,11 +38,12 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
 
 
 
-- nombre - back o front - enlace a perfil de github
+- NOMBRE / BACK o FRONT / Enlace a perfil de Github.
 - Iván De La Fuente - Backend - [IvanDLF](https://github.com/ivandlf)
 - Walter Hugo Diaz - Front-end -  [Walterdiaz2023](https://github.com/walterdiaz2023)
 - Rojas Jorge Daniel - Front-end - [Cabro645](https://github.com/Cabro645)
+- Ramiro Michat - Front-end - [rmichat](https://github.com/rmichat)
 - German Abalos - Backend - [German1762](https://github.com/german176269)
-- Vanesa Moreno-Front-end-(https://github.com/VanesaMoreno)
+- Vanesa Moreno - Front-end - [VanesaMoreno](https://github.com/VanesaMoreno)
 
 
