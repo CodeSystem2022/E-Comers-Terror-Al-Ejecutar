@@ -19,6 +19,7 @@ body {
 #carouselExampleIndicators {
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 6rem;
 }
 
 /* Estilos para el encabezado de la página */
@@ -105,7 +106,7 @@ main {
 .promo {
     display: flex;
     flex-direction: row;
-    margin-left: 70px;
+    margin-left: 5rem;
     align-items: center;
     flex-wrap: wrap;
 
@@ -209,7 +210,6 @@ footer {
 
 /* Estilos para una imagen en el pie de página */
 footer img {
-    max-width: 7%;
     height: auto;
     margin-top: 20px;
 }
@@ -218,6 +218,13 @@ footer img {
 .copyright {
     margin-top: 10px;
 }
+
+.logo-footer {
+  filter: invert(100%);
+  width: 155px;
+  margin-bottom: -31px;
+}
+
 
 /* Estilos para un menú desplegable en dispositivos móviles */
 .offcanvas {
@@ -290,11 +297,12 @@ footer img {
 
     .caja1 {
         display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-        padding: 3px;
-        height: 100px;
-        width: 100%;
+            flex-direction: row;
+            padding: 0px;
+            height: 100px;
+            width: 100%;
+            align-items: center;
+            justify-content: space-around;
     }
 
     footer {
@@ -327,6 +335,8 @@ footer img {
 
     .promo {
         display: flex;
+        justify-content: space-around;
+        margin-left: 1rem;
     }
 
     .card {
@@ -372,7 +382,7 @@ footer img {
         width: 100%;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 5px;
+        margin-left: 4rem;
     }
 
     .seccion1 {
