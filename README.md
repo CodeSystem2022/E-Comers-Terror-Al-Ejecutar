@@ -45,5 +45,6 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
 - Ramiro Michat - Front-end - [rmichat](https://github.com/rmichat)
 - German Abalos - Backend - [German1762](https://github.com/german176269)
 - Vanesa Moreno - Front-end - [VanesaMoreno](https://github.com/VanesaMoreno)
+- Gabriel Napolitano - Backend - [GabrielNapolitano](https://github.com/GabrielNapolitano)
 
 
