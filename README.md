@@ -42,6 +42,6 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
 - Iván De La Fuente - Backend - [IvanDLF](https://github.com/ivandlf)
 - Walter Hugo Diaz - Front-end -  [Walterdiaz2023](https://github.com/walterdiaz2023)
 - Rojas Jorge Daniel - Front-end - [Cabro645](https://github.com/Cabro645)
-
+- German Abalos - Backend - [German1762](https://github.com/german176269)
 
 
