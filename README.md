@@ -46,5 +46,6 @@ El sistema de e-commerce de "Zia Carmela" ofrece las siguientes funcionalidades 
 - German Abalos - Backend - [German1762](https://github.com/german176269)
 - Vanesa Moreno - Front-end - [VanesaMoreno](https://github.com/VanesaMoreno)
 - Gabriel Napolitano - Backend - [GabrielNapolitano](https://github.com/GabrielNapolitano)
+- Aquiles Martinez - Backend - [AquilesMM](https://github.com/AquilesMM)
 
 
