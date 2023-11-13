@@ -1,6 +1,7 @@
 package ecommerce.utn.ecommerce.jar.dto;
 
 
+import ecommerce.utn.ecommerce.jar.models.Productos;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
